@@ -2,7 +2,7 @@ package packagepoo;
 
 public class coche {	
 		int ruedas;
-		int ruedas;
+		
 		int largo;
 		int ancho;
 		int motor;
